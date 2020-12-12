@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QLNK.DangNhap" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAYACAAAACAAMEAAAAAAAAQQBECAA=</HashCode>
+      <FileName>DangNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.HoKhau" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAABECAAAAAAAACAAAACACEAAYAAkACCQIAAAAA=</HashCode>
+      <FileName>HoKhau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.NhanKhau" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAABECAAAAAAAACAAAAmAyEAAAAAgAACQIAIAAA=</HashCode>
+      <FileName>NhanKhau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.PhanQuyenTaiKhoan" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAQAAAAECAAAAAIAACAACACAAEAAAAAAAACQQAGAAA=</HashCode>
+      <FileName>PhanQuyenTaiKhoan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.Program" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.SourceCode" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKDAAACEuQAIAAQASBgZgIECREgggLiEAFC4IADBBA=</HashCode>
+      <FileName>SourceCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.SuaChungTu" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8cMUUASABCIlkJFACEKAICYiUhVQiAAhACmQR8SQAAA=</HashCode>
+      <FileName>SuaChungTu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.SuaHoKhau" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QlQQFgAEESgFABAABACAQCACAIMAAAABAIgQQCAQQIE=</HashCode>
+      <FileName>SuaHoKhau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.SuaKetHon" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>88JSBEABBCIMINBoFQCUAiOiUAEQQAgSgSwQRMQIVIA=</HashCode>
+      <FileName>SuaKetHon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.SuaNhanKhau" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QxUeIgAQAWhEARAgAECAICQSAoNQgAoBAAiQQfQAggA=</HashCode>
+      <FileName>SuaNhanKhau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.SuaTaiKhoan" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAIAAAIBCAEAAAIAACAgCAiAAEAIAQAAAADQQAAAAE=</HashCode>
+      <FileName>SuaTaiKhoan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.SuaTamTru" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkQQAhAKATABOBCAgACAUCICAIMAAAABAAChQEAAgSA=</HashCode>
+      <FileName>SuaTamTru.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.SuaTienAnTienSu" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkCQAgCCATABIBBAAACAACACAYNAAAABAAiRQEAAAAA=</HashCode>
+      <FileName>SuaTienAnTienSu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.ThemChungTu" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wcMEAASABCI1EIBACACAIAYiUhVQqAAhACmRRcQQAAA=</HashCode>
+      <FileName>ThemChungTu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.ThemHoKhau" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAgAEECgFAAAAAACAQAACAAMAIAAAAIgBYCAAQIE=</HashCode>
+      <FileName>ThemHoKhau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.ThemKetHon" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gsICAEAEAKYsAMBIBACQAgIiEAEAQEgCgSwAREQAdIA=</HashCode>
+      <FileName>ThemKetHon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.ThemNhanKhau" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QxUGAgAAAGhEAQIgAACAIAQSAINQoAgAAAgBQuAAgAA=</HashCode>
+      <FileName>ThemNhanKhau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.ThemTaiKhoan" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAAAAACAAAAAAQACAAgAiAAMkIAAAAAADQQAGAAA=</HashCode>
+      <FileName>ThemTaiKhoan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.ThemTamTru" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAggAADABMACCQACAUAICAAMAIAAAAAABQEAQAQA=</HashCode>
+      <FileName>ThemTamTru.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.ThemTienAnTienSu" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkCAAgAAADABIAAAAACAQAACAQMAIAgAAAiBQEAAAAA=</HashCode>
+      <FileName>ThemTienAnTienSu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.TrangChu" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>olWhQ4nNmP9wUiEIOByossT+f///PUD+/////+Ed/g8=</HashCode>
+      <FileName>TrangChu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABECAAAQAAAAAAAAIAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNK.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQIAAAAAABAAAAEAAAAAIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
